@@ -1,0 +1,39 @@
+{
+    "servicesData": [
+      {
+        "icon": "./images/path211.svg",
+        "num_cases": "72",
+        "service_type": "All Cases"
+      },
+      {
+        "icon": "./images/group88.svg",
+        "num_cases": "11",
+        "service_type": "Traffic & Parking"
+      },
+      {
+        "icon": "./images/path217.svg",
+        "num_cases": "15",
+        "service_type": "Municipal Connectivity"
+      },
+      {
+        "icon": "./images/path218.svg",
+        "num_cases": "18",
+        "service_type": "Environment"
+      },
+      {
+        "icon": "./images/group89.svg",
+        "num_cases": "9",
+        "service_type": "Public Safety"
+      },
+      {
+        "icon": "./images/group90.svg",
+        "num_cases": "13",
+        "service_type": "Waste Management"
+      },
+      {
+        "icon": "./images/group91.svg",
+        "num_cases": "6",
+        "service_type": "Light & Energy"
+      }
+    ]
+    }
