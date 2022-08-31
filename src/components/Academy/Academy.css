@@ -1,0 +1,123 @@
+.card {
+    width: 100%;
+    height: 100%;
+    background: #1F242B !important;
+    float: left;
+    margin: -0.6rem 0.3rem 2rem 0.6rem;
+    border-radius: 10px !important;
+    padding:0;
+}
+.gridList {
+    width: 100%;
+    height: 100%;
+  }
+.cardContent {
+    padding: 0px 16px 16px 16px;
+}
+.allsolutionsclass{
+    margin-right: 0 rem;
+}
+.header {
+    
+    background-color: #20DCEB;
+  background-image: linear-gradient(315deg, #20DCEB 0%, #000000 74%);
+    margin: 0rem;
+    font: normal normal normal 0.88rem/1rem Segoe UI;
+    position: relative;
+    top:-0.5rem;
+    display: block;
+    
+}
+@media screen and (min-width: 1920px) {
+    .header{
+      font:normal normal normal 1.1rem/1.5rem Segoe UI ;
+    }
+  }
+
+.description {
+    color: #D1E1F8;
+    height: 1rem;
+    font: normal normal normal 0.8rem/0.9rem Segoe UI;
+    position: relative;
+    top: -0.5rem;
+}
+
+.midSection {
+    display: flex;
+    height: 8rem;
+}
+
+.attributes {
+    color: #D1E1F8;
+    width: 9rem;
+    padding-bottom: 0.4rem;
+    font: normal normal normal 0.7rem/0.8rem Segoe UI;
+    position: relative;
+    top: -0.5rem;
+}
+
+.all {
+    position: relative;
+    top: -1rem;
+}
+
+ul {
+    margin-inline-start: -1em;
+}
+
+li::marker {
+    color:#20DCEB;
+}
+
+.price {
+    /* margin: 1rem 3rem; */
+    color:#20DCEB;
+    font-size: 1.1rem;
+    text-align: center;
+    position: relative;
+    top: -1.5rem;
+    left: -0.5rem;
+    margin-block-end: 0em;
+}
+
+.priceDesc {
+    margin: 0rem 1rem;
+    color: #20DCEB;
+    font-size: 0.6rem;
+    text-align: center;
+    position: relative;
+    top: -1.5rem;
+    left: -0.5rem;
+}
+
+.likes {
+    margin: 0rem 0.5rem;
+    color: #20DCEB;
+}
+
+.modifyButton {
+    width: 8rem;
+    background: #1F242B;
+    color: #20DCEB;
+    border: 1px solid #20DCEB;
+    padding: 0.4rem 0.5rem;
+    text-align: center;
+    border-radius: 8px;
+    float: right;
+    margin-right: 1rem;
+    cursor: pointer;
+    position: relative;
+    top:-1.5rem;
+    
+}
+
+
+
+.allsolutionheader {
+    position: relative;
+    left:-2.5rem;
+    text-align: center;
+    font: normal normal bold 1.1rem / 1.3rem Segoe UI;
+    color:#20DCEB;
+    margin-bottom:1rem;
+}

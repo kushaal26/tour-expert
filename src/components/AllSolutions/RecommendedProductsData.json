@@ -1,0 +1,55 @@
+{
+    "recommendedproductsData": [
+      {
+        "img": "./images/solomoto banner (002).png",
+        "id": 2,
+        "description": "",
+        "attributes": [ "" ],
+        "price": "",
+        "priceDesc": "",
+        "likes": "",
+        "action": "Learn More",
+        "videoSource": "https://youtu.be/bAgp3mGk_0w",
+        "content": "some content"
+  
+      },
+      {
+        "img": "/images/Graphic design (002).png",
+        "id": 16,
+        "description": "",
+        "attributes": [ "" ],
+        "price": "",
+        "priceDesc": "",
+        "likes": "",
+        "action": "Learn More",
+        "videoSource": "https://www.youtube.com/watch?v=9MbGOHjctGM",
+        "content": "some content"
+  
+      },
+      {
+        "img": "/images/vcita (002).png",
+        "id": 1,
+        "description": "",
+        "attributes": [ "" ],
+        "price": "",
+        "priceDesc": "",
+        "likes": "",
+        "action": "Learn More",
+        "videoSource": "https://www.youtube.com/watch?v=azq0S0DKS50",
+        "content": "some content"
+      },
+      {
+        "id": 8,
+        "img": "/images/payments.png",
+        "description": "",
+        "attributes": [ "" ],
+        "price": "",
+        "priceDesc": "",
+        "likes": "",
+        "action": "Learn More",
+        "videoSource": "https://www.youtube.com/watch?v=azq0S0DKS50",
+        "content": "some content"
+  
+      }
+    ]
+  }

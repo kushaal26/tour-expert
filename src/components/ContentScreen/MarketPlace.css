@@ -1,0 +1,84 @@
+.infotab {
+    background-color: #1F242B;
+    width: 200px;
+    
+}
+
+.root {
+    background-color: #2A3039;
+}
+
+.smheaderMarketPlace {
+    position: relative;
+    left: -1.2rem;
+    top: -3.2rem;
+    height: 10px;
+}
+
+.atmosttopclass{
+    width: 100%;
+    display:block;
+    box-sizing: border-box;
+    margin-left: 2rem;
+    margin-right: 0px;
+    height: 100%;
+    overflow-y: visible;
+}
+.usergreetMarketPlace {
+    color: #D1E1F8;
+    font: normal normal normal 0.7rem/0.8rem Segoe UI;
+    padding-bottom: 0.5rem;
+    position: relative;
+    left: 3.5rem;
+}
+
+.clheader {
+    font: normal normal bold 12px / 18px Segoe UI;
+    letter-spacing: 0px;
+    color: #20DCEB; 
+    opacity: 1,
+}
+
+.viewbar {
+    position: relative;
+    top: 3rem;
+    left: -12.5rem;
+    font: normal normal normal 0.8rem/0.9rem Segoe UI !important;
+}
+
+.topviewbox {
+    height: 1.7rem;
+    background-color: #1F242B !important;
+    width: 12rem;
+    position: relative;
+    top: 1rem;
+    left: -10rem;
+}
+
+.input {
+    color: #93A5BF !important;
+    font: normal normal normal 0.8rem /0.4rem Segoe UI !important;
+    position: relative;
+}
+
+.notchedOutline {
+    height: 1.8rem !important;
+    border: 2px solid #20DCEB !important;
+}
+
+.topsearchbox {
+    width: 11.5rem !important;
+    position: relative;
+    top: -0.75rem !important;
+    left: 4rem;
+}
+
+
+.solutionsdiv {
+    position: relative;
+    left:4.75rem;
+}
+
+.menutextMarketPlace {
+    font: normal normal normal 0.8rem/0.9rem Segoe UI !important;
+}
